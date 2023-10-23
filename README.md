@@ -1,5 +1,5 @@
-# 💖Chào mọi người đén với Website Admin đặt bàn nhà hàng💖
-- Đây là dự án admin quản lý đặt bàn ăn nhà hàng trực tuyến được xây dựng bằng Reactjs, sử dụng các công nghệ mới nhất để mang lại trải nghiệm tốt nhất cho người dùng. 
+# 💖Chào mọi người đến với Website Admin đặt bàn nhà hàng💖
+- Đây là dự án website admin quản lý đặt bàn ăn nhà hàng trực tuyến được xây dựng bằng Reactjs, sử dụng các công nghệ mới nhất để mang lại trải nghiệm tốt nhất cho người dùng. 
 
 # Đầu tiên để chạy được dự án, mọi người cần phải:
 - Cài trước vscode
