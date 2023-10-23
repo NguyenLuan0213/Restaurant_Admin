@@ -1,0 +1,22 @@
+.custom-promotion-table td {
+    border: 1px solid #000;
+    /* Màu và kiểu đường viền cho ô dữ liệu và tiêu đề cột */
+    border-collapse: collapse !important;
+    /* Gộp các đường viền thành một */
+    padding: 8px;
+    /* Khoảng cách giữa nội dung và đường viền */
+    border-left: none;
+    /* Ẩn đường viền bên trái */
+
+}
+
+.custom-promotion-table table {
+    border: 1px solid #000;
+    border-radius: 10px !important;
+    /* Màu và độ rộng của border */
+}
+
+.custom-promotion-table th {
+    border-bottom: 1px solid #000 !important;
+    border-right: 1px solid #000;
+}

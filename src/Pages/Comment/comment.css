@@ -1,0 +1,35 @@
+.custom-comments-table td {
+    border: 1px solid #000;
+    /* Màu và kiểu đường viền cho ô dữ liệu và tiêu đề cột */
+    border-collapse: collapse !important;
+    /* Gộp các đường viền thành một */
+    padding: 8px;
+    /* Khoảng cách giữa nội dung và đường viền */
+    border-left: none;
+    /* Ẩn đường viền bên trái */
+
+}
+
+.custom-comments-table table {
+    border: 1px solid #000;
+    border-radius: 10px !important;
+    /* Màu và độ rộng của border */
+}
+
+.custom-comments-table th {
+    border-bottom: 1px solid #000 !important;
+    border-right: 1px solid #000;
+}
+
+.textarea-custom {
+    width: 100%;
+    /* Độ rộng 100% */
+    padding: 8px;
+    /* Khoảng cách lề bên trong */
+    border: 1px solid #ccc;
+    /* Viền xung quanh */
+    border-radius: 4px;
+    /* Đường viền bo tròn */
+    font-size: 16px;
+    /* Kích thước phông chữ */
+}

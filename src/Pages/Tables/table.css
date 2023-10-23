@@ -1,0 +1,24 @@
+.custom-table-class td {
+    border: 1px solid #000;
+    /* Màu và kiểu đường viền cho ô dữ liệu và tiêu đề cột */
+    border-collapse: collapse;
+    /* Gộp các đường viền thành một */
+    padding: 8px;
+    /* Khoảng cách giữa nội dung và đường viền */
+    border-left: none;
+}
+
+.custom-table-class table {
+    border: 1px solid #000;
+    /* Màu và độ rộng của border */
+    border-radius: 10px !important;
+}
+
+.custom-table-class th {
+    border-bottom: 1px solid #000 !important;
+    border-right: 1px solid #000;
+}
+
+h4:where(.css-dev-only-do-not-override-k83k30).ant-typography {
+    text-align: center;
+}
