@@ -40,6 +40,7 @@ h2 {
 
 .back-group {
     padding: 100px;
+    padding-inline: 600px;
     background-image: url('https://res.cloudinary.com/dkba7robk/image/upload/v1697220442/pttrisyra21d7annwr2o.jpg');
     background-size: 100%;
     background-repeat: no-repeat;
